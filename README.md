@@ -15,6 +15,8 @@ This is my custom camera system design for the Bambu lab A1 Mini made during [Ha
 
 # Wiring
 
+This is my first plan for the wiring and connections of all my components and how they will interact with each other. You can see how the printer sets of the switch, how the pico picks up the signal and passes on keybinds to the laptop via USB and how the computer takes pictures using the camera.
+
 <p>
   <img src="Assets/wiring_1.png" alt="wiring image 1" width="700">
 </p>
