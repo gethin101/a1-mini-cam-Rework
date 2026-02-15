@@ -41,7 +41,9 @@ Total = £24.98 or $34.09
 
 I will need to program the Raspberry Pi Pico WH to recieve the signal from the microswitch and to act as a HID keyboard to send keystrokes to my computer via USB cable. 
 
-I will likely program this in CircuitPython as I am relatively familiar with it.
+I will likely program the pico in CircuitPython as I am relatively familiar with it.
+
+I will also need to write custom G-code for the printer so it can move the toolhead to the position of the microswitch.
 
 
 
