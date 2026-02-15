@@ -3,7 +3,7 @@
 This is my custom camera system design for the Bambu lab A1 Mini made during [Hackclub's Rework program](https://rework.hackclub.com/). It uses custom G-code, a raspberry pi pico WH, a Logitech C270 webcam and a camera clicker to record smooth timelapses of my prints.
 
 
-# How it will work:
+# How it works:
 
 - Nozzle moves to specific positon between layers through my custom G-code and taps into the camera clicker
 - Raspberry Pi Pico WH wired to the clicker detects the signal and sends command to computer
@@ -12,6 +12,10 @@ This is my custom camera system design for the Bambu lab A1 Mini made during [Ha
 - I will edit the photos together to make the timelapse
 
 **I will need to design in CAD custom mounds for the switch and for the camera**
+
+# Wiring
+
+![](Assets/wiring_1.png)
 
 
 # Component BOM:
