@@ -39,7 +39,7 @@ I will need to program the Raspberry Pi Pico to recieve the signal from the clic
 
 
 
-## Rework criteria:
+## Rework criteria: **(temporary)**
 
 - Full image of your project/'s CAD
 - Short description of your project and why you made it
