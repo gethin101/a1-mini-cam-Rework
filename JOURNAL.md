@@ -12,6 +12,16 @@ You can see below a simple wiring diagram I put together showing how the compone
 **Total time spent: 2h**
 
 
+# 16/2/26 -  Pico Keystrokes
+
+Today, I did some messing around with the camera app on my computer and realised that all I need the pi pico to do is send an **enter** keystroke to the computer while the camera app is open using the webcam and it will take and save all of the photos into a folder that I can view them all later and stitch together to make the timelapse.
+
+[pics]
+
+**Total time spent: ?**
+
+
+
 
 
 # Date -  title
