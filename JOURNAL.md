@@ -44,7 +44,9 @@ You can see the code below:
 
 <img width="382" height="120" alt="image" src="https://github.com/user-attachments/assets/4d7f92a6-0082-45a7-b344-2437d0ffbb6a" />
 
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/7f71817c-ad32-49c5-ad3b-8ba79284fc00" />
+My G-code in bambu studio:
+
+<img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/7f71817c-ad32-49c5-ad3b-8ba79284fc00" />
 
 
 
