@@ -4,7 +4,7 @@
 
 Today, I thought about how I can make my camera system and started to plan out the design in the readme. I did some research on components and put together a rough BOM with links and prices (as you can see below).
 
-I decided to use a [KW11-3Z microswitch](https://www.amazon.co.uk/sourcing-map-KW11-3Z-B-Waterproof-Components/dp/B0DWMF8MR8/ref=sr_1_1?dib=eyJ2IjoiMSJ9.tpnlK1m80hUXBJH2E_WHKxRkCwrBlTrwzOuiSs5lKMpYclgZFreWDynS6G68xPrteMSH4lKrZzf1a96Jmdb0VIofummMqnfiHZgkJ87gzHpXwS0ZKiSoQsk3aje7yWF2ty3W7tV04EF2pkzfxkq2xbdmRXyU5YlKXkw0L_WHVt2JM6TSYk1Df7G61qV7FxNiZsD1I-rFTzcKpvC6d-_gBA3FCacXqkeyGBVScuRFj4c7TUP8e4xqNZxHpevmTDV2Xe3nBFzq0LKcQbocrUG5c_q9mu3MVlOg3UKI-kXOTYY.p1ZnE8hvDETavcqhbG3aCii5acrIZ0l1-uv4gXue6Vc&dib_tag=se&keywords=KW11-3Z+microswitch&qid=1771256687&sr=8-1) as I think it will be interesting to use and it being small and compact will allow me to easily mount it to my printer.
+I decided to use a KW11-3Z microswitch as I think it will be interesting to use and it being small and compact will allow me to easily mount it to my printer.
 
 You can see below a simple wiring diagram I put together showing how the components will be connected and how my system will work
 
