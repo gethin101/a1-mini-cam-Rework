@@ -21,7 +21,7 @@ Today, I did some messing around with the camera app on my computer and realised
 
 I wrote the simple script for the pico in CircuitPython that detects the switch being pressed through one of the GPIO pins (I have put it to 15 for now but I can change whenever), it waits a tiny amount to make sure the switch isn't triggered twice and sends **enter** to my computer.
 
-You can see below the first iteration of my CircuitPython program
+You can see below the first iteration of my CircuitPython program and how I plan to wire the microswitch to the pico (COM -> GND and NO -> GPIO)
 
 
 <img width="500" height="700" alt="journal_2" src="https://github.com/user-attachments/assets/e317b664-7587-4a4b-8131-6c55a3cc4914" />
