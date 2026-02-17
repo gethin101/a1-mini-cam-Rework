@@ -39,11 +39,12 @@ Total = £27.38 or $37.34
 
 # Firmware
 
-I will need to program the Raspberry Pi Pico 2H to recieve the signal from the microswitch and to act as a HID keyboard to send keystrokes to my computer via USB cable. 
+I have written the code for the pico in CircuitPython as I am relatively familiar with it. 
+It recieves the signal from the microswitch through a GPIO pin and uses the adafruit_HID library to send an **enter** keystroke to my computer via USB cable. [The code can be seen here](Firmware/code.py)
 
-I will likely program the pico in CircuitPython as I am relatively familiar with it.
+I have also learnt how to write custom G-code for my printer so I can make it move into the microswitch between every layer. [The g-code can be seen here](Firmware/printer.gcode)
 
-I will also need to write custom G-code for the printer so it can move the toolhead to the position of the microswitch.
+
 
 
 
